@@ -10,7 +10,7 @@
     </parent>
     <groupId>br.com.luminaapps</groupId>
     <artifactId>lib-erros-api</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
     <name>Erros Api</name>
     <description>Erros Api</description>
     <packaging>jar</packaging>
