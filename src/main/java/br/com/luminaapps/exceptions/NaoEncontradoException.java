@@ -1,0 +1,7 @@
+package br.com.luminaapps.exceptions;
+
+public class NaoEncontradoException extends RuntimeException {
+    public NaoEncontradoException(String message) {
+        super(message);
+    }
+}
